@@ -1,0 +1,36 @@
+[submodule "bootstrap-v1.2.0"]
+	path = bootstrap-v1.2.0
+	url = git://github.com/twitter/bootstrap.git
+[submodule "bootstrap-v1.0.0"]
+	path = bootstrap-v1.0.0
+	url = git://github.com/twitter/bootstrap.git
+[submodule "bootstrap-v1.1.0"]
+	path = bootstrap-v1.1.0
+	url = git://github.com/twitter/bootstrap.git
+[submodule "bootstrap-v1.1.1"]
+	path = bootstrap-v1.1.1
+	url = git://github.com/twitter/bootstrap.git
+[submodule "bootstrap-v1.3.0"]
+	path = bootstrap-v1.3.0
+	url = git://github.com/twitter/bootstrap.git
+[submodule "bootstrap-v1.4.0"]
+	path = bootstrap-v1.4.0
+	url = git://github.com/twitter/bootstrap.git
+[submodule "bootstrap-v2.0.0"]
+	path = bootstrap-v2.0.0
+	url = git://github.com/twitter/bootstrap.git
+[submodule "bootstrap-v2.0.1"]
+	path = bootstrap-v2.0.1
+	url = git://github.com/twitter/bootstrap.git
+[submodule "bootstrap-v2.0.2"]
+	path = bootstrap-v2.0.2
+	url = git://github.com/twitter/bootstrap.git
+[submodule "bootstrap-v2.0.3"]
+	path = bootstrap-v2.0.3
+	url = git://github.com/twitter/bootstrap.git
+[submodule "bootstrap-v2.0.4"]
+	path = bootstrap-v2.0.4
+	url = git://github.com/twitter/bootstrap.git
+[submodule "bootstrap-v2.1.0"]
+	path = bootstrap-v2.1.0
+	url = git://github.com/twitter/bootstrap.git
