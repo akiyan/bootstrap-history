@@ -3,4 +3,4 @@ bootstrap-history
 
 Hosting all versions for Bootstrap documents.
 
-http://www.akiyan.com/bootstrap-history/
+http://bootstrap-history.akiyan.tokyo/
