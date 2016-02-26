@@ -1,0 +1,15 @@
+application: bootstrap-history
+version: 1
+runtime: php55
+api_version: 1
+threadsafe: true
+
+automatic_scaling:
+  min_idle_instances: automatic   # idle状態にあるインスタンスの最小値
+  max_idle_instances: 1                 # idle状態にあるインスタンスの最大値
+  min_pending_latency: 10000ms  # リクエストを処理するまでに許される待ち時間の最小
+  max_pending_latency: automatic
+
+handlers:
+- url: /.*
+  script: /gae.php
